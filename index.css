@@ -204,3 +204,12 @@
   box-shadow: 0px 0px 29px 0px rgba(128,128,128,0.57) !important;
   transform: scale(1) translateY(px) !important;
 }
+
+<style >
+body {
+    background-image: url('D:\Документы\Nicepage Templates\SiteRusan — копия\images\macos-mojave-sand-dunes-mojave-desert-california-night-dark-5120x2880-4051-копия.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+</style >
